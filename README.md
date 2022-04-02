@@ -1,4 +1,4 @@
-**print('Olá Mundo!') Me chamo Matheus Pitsch 🐙**
+**print('Hello World') Me chamo Matheus Pitsch 🐙**
 
 - 👨‍💻  Procurando emprego na área de TI
 - 🌱  Estudando Logica de Programação 1

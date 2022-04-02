@@ -1,6 +1,6 @@
 **print('Olá Mundo!') Me chamo Matheus Pitsch 🐙**
 
-- 👨‍💻  Procurando emprego na área
+- 👨‍💻  Procurando emprego na área de TI
 - 🌱  Estudando Logica de Programação 1
 - 🐱‍👤  Studying English: beginner level
 

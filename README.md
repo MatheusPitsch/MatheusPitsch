@@ -1,7 +1,7 @@
 **print('Olá Mundo!') Me chamo Matheus Pitsch 🐙**
 
-- 🔭  Ainda não trabalho na área
-- 🌱  Estudando Logica de Programação (Linguagem: Python)
+- 🔭  Procurando emprego na área
+- 🌱  Estudando Logica de Programação 1
 - 🐱‍👓  Apelido: Pistch
 ##
 

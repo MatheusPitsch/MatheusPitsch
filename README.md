@@ -1,6 +1,6 @@
 **print('Hello World') Me chamo Matheus Pitsch 🐙**
 
-- 👨‍💻  Procurando emprego na área de dev.
+- 👨‍💻  Procurando emprego na área de desenvolvedor back-end.
 - 🌱  Estudando lógica de programação.
 - 🐱‍👤  Missão: Ajudar o máximo de pessoas com a programação.
 

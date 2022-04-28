@@ -4,7 +4,7 @@
 - 🌱  Estudando: Análise e Desenvolvimento de Sistemas. 
 - 🐱‍👤  Missão: Ajudar o máximo de pessoas com a programação.
 
-- 🍃  De um peixe ao homem e ele se alimentara por um dia, ensine o a prescar e ele tera o de que comer para o resto da sua vida
+- 🍃  Dê ao homem um peixe e ele se alimentará por um dia. Ensine um homem a pescar e ele se alimentará por toda a vida.
 
 ##
 

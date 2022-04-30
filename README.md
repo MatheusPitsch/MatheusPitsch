@@ -1,6 +1,6 @@
 **'Hello World' Me chamo Matheus Pitsch 🐙**
 
-- 👨‍💻  Procurando emprego na área de desenvolvedor back-end.
+- 👨‍💻  Procurando uma oportunidade na área de desenvolvedor.
 - 🌱  Estudando: Análise e Desenvolvimento de Sistemas. 
 - 🐱‍👤  Missão: Ajudar o máximo de pessoas com a programação.
 

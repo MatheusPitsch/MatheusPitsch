@@ -1,6 +1,6 @@
 **'Hello World' Me chamo Matheus Pitsch 🐙**
 
-- 👨‍💻  Procurando uma oportunidade na área de desenvolvedor.
+- 👨‍💻  Assistente de Engenharia de Software.
 - 🌱  Estudando: Análise e Desenvolvimento de Sistemas. 
 - 🐱‍👤  Missão: Ajudar o máximo de pessoas com a programação.
 

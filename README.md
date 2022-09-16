@@ -1,10 +1,9 @@
-**'Hello World' Me chamo Matheus Pitsch 🐙**
+**'Hello World' My name is Matheus Pitsch 🐙**
 
-- 👨‍💻  Assistente de Engenharia de Software.
-- 🌱  Estudando: Análise e Desenvolvimento de Sistemas. 
-- 🐱‍👤  Missão: Ajudar o máximo de pessoas com a programação.
+- 👨‍💻  Profession: Software Engineering Assistant.
 
-- 🍃  Dê ao homem um peixe e ele se alimentará por um dia. Ensine um homem a pescar e ele se alimentará por toda a vida.
+- 🐱‍👤  Objective: Become an expert in .NET.
+
 
 ##
 
@@ -26,8 +25,7 @@
 ##
 
 <div> 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
-
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 </div>
 
 ##

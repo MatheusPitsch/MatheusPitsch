@@ -1,6 +1,6 @@
 **'Hello World' My name is Matheus Pitsch 🐙**
 
-- 👨‍💻  Profession: Software Engineering Assistant.
+- 👨‍💻  Profession: Open To Work.
 
 - 🐱‍👤  Objective: Become an expert in .NET.
 
